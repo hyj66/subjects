@@ -1,0 +1,1 @@
+function heihei(o,l){console.log(o),console.log(l),console.log(111)}console.log("hello,i  am baby1"),console.log("hello,i  am baby2"),console.log("baby3");
